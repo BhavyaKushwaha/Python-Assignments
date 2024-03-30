@@ -1,0 +1,2 @@
+Day1: To check wether the number is a buzz number or not(Divisible by 7 or ends with the number 7)
+Day2: Write a program to input name, age, marks of 5 subjects (out of 100) and the average marks of a student

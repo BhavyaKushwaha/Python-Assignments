@@ -1,0 +1,10 @@
+Name= input("Enter your Name: ")
+Age= input("Enter your Age: ")
+Eng= int(input("Enter your English Marks: "))
+Hin= int(input("Enter your Hindi Marks: "))
+Maths= int(input("Enter your Maths Marks: "))
+Sci= int(input("Enter your Science Marks: "))
+SST= int(input("Enter your SST Marks: "))
+
+Sum=(Eng+Maths+Hin+Sci+SST)
+print("Hello!",Name,"Your average marks are: ",Sum/5)
